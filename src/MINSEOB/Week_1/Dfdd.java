@@ -21,6 +21,7 @@ public class Dfdd {
                 num += (y/i)*i;
             }
             System.out.println(num);
+            // 테스트
         }
 
 
