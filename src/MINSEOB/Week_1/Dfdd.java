@@ -1,4 +1,4 @@
-package Week_1;
+package MINSEOB.Week_1;
 
 import java.util.Scanner;
 
